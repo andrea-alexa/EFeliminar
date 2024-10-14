@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFEliminar", "EFEliminar\EFEliminar.csproj", "{CAFD2969-DC54-48A4-ABFF-4F70A3D16860}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesoDatos", "AccesoDatos\AccesoDatos.csproj", "{3A322F93-138A-48AB-B11A-0A9658655F33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAFD2969-DC54-48A4-ABFF-4F70A3D16860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAFD2969-DC54-48A4-ABFF-4F70A3D16860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAFD2969-DC54-48A4-ABFF-4F70A3D16860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAFD2969-DC54-48A4-ABFF-4F70A3D16860}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A322F93-138A-48AB-B11A-0A9658655F33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A322F93-138A-48AB-B11A-0A9658655F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A322F93-138A-48AB-B11A-0A9658655F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A322F93-138A-48AB-B11A-0A9658655F33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45DACC04-D0ED-41AB-AD45-D47DBFE9480A}
+	EndGlobalSection
+EndGlobal
